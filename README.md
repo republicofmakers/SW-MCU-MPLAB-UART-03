@@ -4,9 +4,11 @@ Here is simple uart code to send data to your PC from develeopment board. I used
 
 <img width="478" alt="Image" src="https://github.com/user-attachments/assets/7be32b62-cea8-4cc9-a892-6de00c083018" />
 
+<br>
+<br>
 Demonstration with Putty:
 
-<img width="883" alt="Image" src="https://github.com/user-attachments/assets/1dbb68be-5fd2-46b9-9078-63e7237149c8" />
+<img width="830" alt="Image" src="https://github.com/user-attachments/assets/487991cb-60ed-4bd4-8369-d6082f824581" />
 
 Hope this helps you.
 
